@@ -1,4 +1,4 @@
-# Awesome-Reasoning-via-Generation
+# Awesome-Reasoning-via-VDM
 
 
 ### Benchmark & Evaluation
