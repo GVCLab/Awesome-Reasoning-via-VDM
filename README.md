@@ -13,6 +13,8 @@
 
 - Can World Simulators Reason? Gen-ViRe: A Generative Visual Reasoning Benchmark. <br> `Arxiv 25.11` | [[PDF]](https://arxiv.org/abs/2511.13853) | [[Github]](https://github.com/L-CodingSpace/GVR)
 
+- Reasoning via Video: The First Evaluation of Video Models’ Reasoning Abilities through Maze-Solving Tasks. <br> `Arxiv 25.11` | [[PDF]](https://arxiv.org/abs/2511.15065) | [[Page]](https://imyangc7.github.io/VRBench_Web/) | [[Github]](https://github.com/ImYangC7/VR-Bench)
+
 ### Methods
 1. Thinking with Video: Video Generation as a Promising Multimodal Reasoning Paradigm. <br> `Arxiv 25.11` | [[PDF]](https://arxiv.org/abs/2511.04570) [[Project Page]](https://thinking-with-video.github.io/) | [[Github]](https://github.com/tongjingqi/Thinking-with-Video) 
 
