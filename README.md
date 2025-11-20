@@ -15,7 +15,8 @@
 
 - Reasoning via Video: The First Evaluation of Video Models’ Reasoning Abilities through Maze-Solving Tasks. <br> `Arxiv 25.11` | [[PDF]](https://arxiv.org/abs/2511.15065) | [[Page]](https://imyangc7.github.io/VRBench_Web/) | [[Github]](https://github.com/ImYangC7/VR-Bench)
 
-### Methods
-1. Thinking with Video: Video Generation as a Promising Multimodal Reasoning Paradigm. <br> `Arxiv 25.11` | [[PDF]](https://arxiv.org/abs/2511.04570) [[Project Page]](https://thinking-with-video.github.io/) | [[Github]](https://github.com/tongjingqi/Thinking-with-Video) 
+- Thinking with Video: Video Generation as a Promising Multimodal Reasoning Paradigm. <br> `Arxiv 25.11` | [[PDF]](https://arxiv.org/abs/2511.04570) [[Project Page]](https://thinking-with-video.github.io/) | [[Github]](https://github.com/tongjingqi/Thinking-with-Video)  
 
-2. MiniVeo3-Reasoner: Thinking with Videos from Open-Source Priors. <br> `25.10` [[Github]](https://github.com/thuml/MiniVeo3-Reasoner)
+### Methods
+
+- MiniVeo3-Reasoner: Thinking with Videos from Open-Source Priors. <br> `25.10` [[Github]](https://github.com/thuml/MiniVeo3-Reasoner)
