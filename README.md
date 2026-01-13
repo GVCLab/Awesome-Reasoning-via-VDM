@@ -21,4 +21,4 @@
 
 - MiniVeo3-Reasoner: Thinking with Videos from Open-Source Priors. <br> `25.10` [[Github]](https://github.com/thuml/MiniVeo3-Reasoner)
 
-- DiffThinker: Towards Generative Multimodal Reasoning with Diffusion Models. <br> `Arxiv 26.01` | [[PDF]](https://arxiv.org/abs/2512.24165) | [[Project Page]](https://diffthinker-project.github.io/)
+- DiffThinker: Towards Generative Multimodal Reasoning with Diffusion Models. <br> `Arxiv 26.01` | [[PDF]](https://arxiv.org/abs/2512.24165) | [[Project Page]](https://diffthinker-project.github.io/) | [[Github]](https://github.com/lcqysl/DiffThinker)
